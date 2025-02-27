@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sudhir</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sudhir-sars/sudhir-sars/blob/dev/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudhir-sars/sudhir-sars/blob/dev/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/sudhir-sars/sudhir-sars/blob/dev/github-contribution-grid-snake-dark.svg">
+</picture>
+
+
 <h3 align="center">A passionate Software Dev from India</h3>
 
 <h4 align="center"><a href="https://sudhir-sars.github.io/">sudhir-sars.github.io</a></h4>
@@ -26,11 +34,6 @@
 - **Front-End:** HTML/CSS, React.js, Next.js, Tailwind CSS  
 - **Tools:** Git/GitHub, Docker, Kubernetes, GitHub Actions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sudhir-sars/sudhir-sars/blob/dev/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sudhir-sars/sudhir-sars/blob/dev/github-contribution-grid-snake-dark.svg">
-  <img alt="github-snake" src="https://github.com/sudhir-sars/sudhir-sars/blob/dev/github-contribution-grid-snake-dark.svg">
-</picture>
 
 
 
